@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Booking CURD test with steps","This will create a new booking","SUCCESS","2022-01-26T23:18:02.628Z[Europe/London]","0.0","1.85"
+"Booking CURD test with steps","Update the booking information and verify the updated information","SUCCESS","2022-01-26T23:18:04.530Z[Europe/London]","0.0","1.51"
+"Booking CURD test with steps","Delete the booking and verify if the booking is deleted!","SUCCESS","2022-01-26T23:18:06.042Z[Europe/London]","0.0","1.0"

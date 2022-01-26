@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Generating Auth token","User should be able to generate a new auth token by entering username and password","SUCCESS","2022-01-26T23:18:10.419Z[Europe/London]","0.0","1.07"

@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Generating Auth token","User should be able to generate a new auth token by entering username and password","SUCCESS","2022-01-26T23:18:10.419Z[Europe/London]","0.0","1.07"
+"Testing the Booking functionality","Verify user should be able to access booking","SUCCESS","2022-01-26T23:18:11.812Z[Europe/London]","0.0","0.51"
+"Testing the Booking functionality","Create a new booking and verify that the booking is created","SUCCESS","2022-01-26T23:18:12.411Z[Europe/London]","0.0","1.1"
+"Testing the Booking functionality","Update a booking and verify that the booking is updated","SUCCESS","2022-01-26T23:18:13.595Z[Europe/London]","0.0","1.45"
